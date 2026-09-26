@@ -30,7 +30,7 @@ def add_pet(pet_list):
     pet_list.append(p_name)
     p_type = input("What animal type is your pet?: ")
     pet_list.append(p_type)
-    p_status = input("Is the pet Available or Adopted?")
+    p_status = input("Is the pet Available or Adopted?: ")
     pet_list.append(p_status)
     pass
 
@@ -48,6 +48,12 @@ def count_available_adopted(pet_list):
 
 def find_pet(pet_list):
     # ask for a name, search the list, print result or "not found"
+    try:
+        find = input("What is the pet's name?: ")
+        x = pet_list.index(find)
+        print(x)
+    except:
+        print("Not found")
     pass
 
 # BONUS (optional)
