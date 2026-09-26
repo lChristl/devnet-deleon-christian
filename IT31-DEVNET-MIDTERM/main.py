@@ -2,7 +2,7 @@
 Midterm Practical Exam — Pet Adoption Records Manager
 Student: [De Leon, Christian F.]
 """
-pets =  []
+pet_list =  []
 
 def display_menu():
     # print the menu, return the user's choice
@@ -11,15 +11,15 @@ def display_menu():
     print("3. Count available vs adopted")
     print("4. Find a pet by name")
     print("5. Exit")
-    option = input("Choose an option: ")
+    option = int(input("Choose an option: "))
     if option == 1:
-        print("")
+        add_pet(pet_list)
     elif option == 2:
-        print("")
+        view_pets(pet_list)
     elif option == 3:
-        print("")
+        count_available_adopted(pet_list)
     elif option == 4:
-        print("")
+        find_pet(pet_list)
     elif option == 5:
         print("")
     pass
@@ -60,8 +60,8 @@ def main():
         if choice == 1:
             display_menu()
         elif choice == 2:
-            print("Exiting program")
-            break
+            running = False
+            print("Ending program")
         else:
             break
         # use if/elif to call the right function based on choice
