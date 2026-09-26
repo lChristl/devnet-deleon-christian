@@ -42,7 +42,8 @@ def view_pets(pet_list):
 
 def count_available_adopted(pet_list):
     # loop through, count Available vs Adopted, return both
-
+    print(f"Available pets: {pet_list.count("Available")}")
+    print(f"Adopted pets: {pet_list.count("Adopted")}")
     pass
 
 def find_pet(pet_list):
