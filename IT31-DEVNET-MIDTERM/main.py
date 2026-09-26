@@ -27,13 +27,16 @@ def display_menu():
 def add_pet(pet_list):
     # ask for name, animal type, status — build the string, add to the list
     p_name = input("What is your pet's name?: ")
+    pet_list.append(p_name)
     p_type = input("What animal type is your pet?: ")
+    pet_list.append(p_type)
     p_status = input("Is the pet Available or Adopted?")
+    pet_list.append(p_status)
     pass
 
 def view_pets(pet_list):
     # loop through and print every pet — handle empty list
-    for x in pets:
+    for x in pet_list:
         print(x)
     pass
 
