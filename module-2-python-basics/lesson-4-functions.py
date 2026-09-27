@@ -59,7 +59,7 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+inputting the wrong parameter or forgetting to input for functions.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
