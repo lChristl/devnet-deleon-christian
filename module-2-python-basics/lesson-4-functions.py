@@ -13,7 +13,11 @@ teaching a friend who's never coded before)
 ============================================
 KEY VOCABULARY
 ============================================
-
+- def: Used to create a function.
+- function: A block of code that you can call for a specific task.
+- parameter: A variable that is inside a function.
+- argument: The value passed into a function.
+- return: Gets the result after running the function
 
 
 ============================================
