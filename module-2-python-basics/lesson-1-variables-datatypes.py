@@ -33,8 +33,12 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
-
-
+c_name = "Denia"
+c_color = "Pink"
+c_birthday = "May, 22"
+c_age = 20
+print(f"My favorite character in wuthering waves is {c_name} her hair color is {c_color} and her birthday is {c_birthday}.")
+print(f"Her estimated age ingame is {c_age}.")
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
