@@ -34,7 +34,8 @@ wuthering_waves = ["Denia","Aemeath","Hsin"] #favorite characters
 print("My favorite characters in Wuthering Waves:")
 for x in wuthering_waves:
     print(x)
-
+print("Upcoming character in Wuthering Waves:")
+print(wuthering_waves[2])
 
 """
 ============================================
@@ -42,7 +43,10 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+a mistake that could be probably made here is if I were to call out specific
+value in my list instead of loop is that if I write 3, I could possibly think that Hsin is the 3rd one
+but it will actually return an error because the index from a list starts from 0 so it is 0,1,2
+Hsin is the '2'.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
