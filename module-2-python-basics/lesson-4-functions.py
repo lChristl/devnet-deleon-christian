@@ -65,5 +65,8 @@ inputting the wrong parameter or forgetting to input for functions.
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+Functions can be related to recipes
+and you do this recipes as defined
+in order to create a result from that recipe.
 
 """
