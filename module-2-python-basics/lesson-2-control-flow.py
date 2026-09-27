@@ -56,4 +56,9 @@ for integer.
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+an example for this is my decision making for class farewells.
+if favorite teacher good day po sir!
+elif decent teacher good day po.
+else lakad o_o
+
 """
