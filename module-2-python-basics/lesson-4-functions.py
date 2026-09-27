@@ -8,7 +8,9 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+A function is something related to a recipe.
+As the program you would follow these sets of instruction inside a function,
+or rather as the cook you would follow the steps to create this recipe every time.
 
 ============================================
 KEY VOCABULARY
