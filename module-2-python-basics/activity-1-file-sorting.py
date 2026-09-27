@@ -9,6 +9,11 @@ WHAT DID YOU BUILD? (explain in your own words)
 [Paste your working script below first, then come back and explain
 it here: what does your script do, and what rule did you use to
 sort the files? e.g. by extension, by name, by date, etc.]
+I made an automatic file sorter inside folders with a python script.
+basically I used a for loop to find filenames within my directory
+then used multiple if conditions to manually categorize my file extensions.
+Basically these files will automatically join the folder I stated in my parameters
+based on what file type they have using filename.endswith.
 
 
 ============================================
