@@ -46,7 +46,11 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+a common mistake here is probably the comparison operator,
+you could mistake a single = instead of using ==
+next possible mistakes are data types.
+you could be making a string variable but would use a comparison operator
+for integer.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
