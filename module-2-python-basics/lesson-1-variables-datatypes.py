@@ -51,4 +51,7 @@ Wrong data types are probably something that is easy to get wrong in this topic.
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+This lesson can be used as reference in how to use variables.
+An example of where is this commonly used are probably surveys
+where it could ask things like name, age, and so on.
 """
