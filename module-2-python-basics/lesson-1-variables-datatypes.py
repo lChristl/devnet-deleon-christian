@@ -45,7 +45,7 @@ A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
+Wrong data types are probably something that is easy to get wrong in this topic.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
