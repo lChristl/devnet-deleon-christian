@@ -8,8 +8,10 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
-
+Basically you have containers that hold value
+You can place values in these container by placing a predetermined value or static,
+or you could use a function like input to place values dynamically.
+You can call out these containers and show what is their value.
 ============================================
 KEY VOCABULARY
 ============================================
