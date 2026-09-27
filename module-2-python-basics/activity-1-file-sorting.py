@@ -117,4 +117,7 @@ HOW THIS CONNECTS TO SOMETHING ELSE
 [optional: how is this similar to what real automation scripts do?
 think about your own gradebook/attendance workflow — could something
 like this save you time there?]
+This could probably have helped me alot in my Senior High days because
+I often download all of the presentations from my teachers from all subjects an
+manually organize it by semester, then subjects.
 """
