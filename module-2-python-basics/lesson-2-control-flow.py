@@ -32,8 +32,14 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
-
-
+favorite = "Denia"
+print("Who is my favorite character in Wuthering Waves?")
+if favorite == "Denia":
+    print(f"You are right! {favorite} is my favorite character.")
+elif favorite == "Aemeath":
+    print(f"You are also right! {favorite} is my second favorite.")
+else:
+    print("You got them wrong :(")
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
