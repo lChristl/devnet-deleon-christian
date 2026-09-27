@@ -19,12 +19,10 @@ based on what file type they have using filename.endswith.
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
-(add more as needed)
-
+- os module: Imports the module to allow me to interact with my operating system
+- shutil module: A tool used to manage these files and folders.
+- file path: The location of a file or folder in my computer.
+- directory: A folder that contains my files or even more folders.
 
 ============================================
 YOUR SCRIPT
