@@ -19,7 +19,7 @@ Repositories are something you could relate to a google drive folder, wherein yo
 - branch: Parallel versions of code 
 - push / pull: 'push' is to commit your changes to your repository while 'pull' is to grab the repository's latest changes if your local repository or branch is behind.
 - pull request: This is how your branch gets merged to the main branch, you should review and test the code before merging pull request, adding description to these pull requests would help in keeping track of what changes are made.
-- merge conflict:
+- merge conflict: This happens when 2 different commits from different branches edit the same part of the same file.
 
 ---
 
