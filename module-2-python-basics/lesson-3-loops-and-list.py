@@ -1,7 +1,7 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: [De Leon, Christian F.]
+Date: [9/27/2026]
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
@@ -13,11 +13,11 @@ teaching a friend who's never coded before)
 ============================================
 KEY VOCABULARY
 ============================================
-- list:
-- for loop:
-- while loop:
-- index:
-- iteration:
+- list: a collection of values in one variable.
+- for loop: used to repeat code for each item in a collection.
+- while loop: runs the code as long as the condition is true.
+- index: position of an item in a list, starting from 0.
+- iteration: a single loop cycle.
 (add more as needed)
 
 
