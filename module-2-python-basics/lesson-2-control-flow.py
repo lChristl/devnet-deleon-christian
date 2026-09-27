@@ -1,7 +1,7 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
-Student: [your name]
-Date: [date]
+Student: [De Leon, Christian F.]
+Date: [9/27/2026]
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
@@ -13,10 +13,11 @@ teaching a friend who's never coded before)
 ============================================
 KEY VOCABULARY
 ============================================
-- condition:
-- if / elif / else:
-- comparison operator:
-- boolean expression:
+- condition: a statement that checks for true or false depending on the variables.
+- if / elif / else: if condition is the first condition to be checked, 
+elif are conditions after the first one, else is when both if and elif conditions are not accepted.
+- comparison operator: symbol that is used to compare two values.
+- boolean expression: True or False
 (add more as needed)
 
 
