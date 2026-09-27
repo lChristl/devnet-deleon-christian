@@ -1,7 +1,7 @@
 # Module 1 — Git & GitHub
 
 **Student:** [De Leon, Christian F.]
-**Date:** [9/23/2026]
+**Date:** [9/23/2026] - [9/27/2026 - FINAL DATE]
 
 ---
 
@@ -19,7 +19,7 @@ Repositories are something you could relate to a google drive folder, wherein yo
 - branch: Parallel versions of code 
 - push / pull: 'push' is to commit your changes to your repository while 'pull' is to grab the repository's latest changes if your local repository or branch is behind.
 - pull request: This is how your branch gets merged to the main branch, you should review and test the code before merging pull request, adding description to these pull requests would help in keeping track of what changes are made.
-- merge conflict:
+- merge conflict: This happens when 2 different commits from different branches edit the same part of the same file.
 
 ---
 
@@ -30,15 +30,23 @@ Repositories are something you could relate to a google drive folder, wherein yo
 ```
 # paste your actual commands here
 ```
+git branch module_1
+git switch module_1
+#make changes
+git add .
+git commit -m "defined this term"
+git push
 
+then in GitHub compare and pull request
 ---
 
 ## A mistake I made (or one I want to avoid)
 
 [What tripped you up? A confusing error message, committing to the wrong branch, a merge conflict — explain it so a classmate reading this avoids the same mistake.]
-
+Avoid forgetting to push after committing before switching branches because this could cause problems later on.
 ---
 
 ## How this connects to something else
 
 [Optional: how does version control relate to anything else you've learned or used before?]
+Version control can be related to game savepoints. For example playing Resident Evil has those savepoints where you can save manually, then you made like alot of mistakes, used all of your herbs and bullets. You can basically go back to those savepoints anytime you want although the progress you've made since that savepoint is gone unlike in git those saves do not disappear.
