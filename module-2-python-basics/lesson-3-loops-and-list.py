@@ -8,7 +8,8 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+A list is like a bookshelf then the books are values inside this bookshelf.
+loops are used to repeat a block of code or commands.
 
 ============================================
 KEY VOCABULARY
