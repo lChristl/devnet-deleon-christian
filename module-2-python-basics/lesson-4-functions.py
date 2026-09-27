@@ -30,7 +30,28 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
+characters = ["Denia", "Aemeath", "Hsin"]
+games = ["Wuthering Waves", "Zenless Zone Zero", "Honkai Star Rail"]
+print(f"="*20)
+print("1. Favorite Characters")
+print("2. Favorite Games")
+print("3. Exit")
+print(f"="*20)
+def fav_char(characters):
+    print(characters) 
+def fav_game(games):
+    print(games) 
+option = int(input("Input number 1 to 3: "))
 
+if option == 1:
+    fav_char(characters)
+elif option == 2:
+    fav_game(games)
+elif option == 3:
+    print("Exiting Program")
+    exit()
+else:
+    print("Insert number 1 to 3 only")
 
 """
 ============================================
