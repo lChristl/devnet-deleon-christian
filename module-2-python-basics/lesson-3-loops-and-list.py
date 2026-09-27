@@ -30,6 +30,10 @@ came up with yourself — not copied from class.
 """
 
 # --- your code example goes here ---
+wuthering_waves = ["Denia","Aemeath","Hsin"] #favorite characters
+print("My favorite characters in Wuthering Waves:")
+for x in wuthering_waves:
+    print(x)
 
 
 """
