@@ -52,4 +52,10 @@ Hsin is the '2'.
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+Ill be relating this to wuthering waves.
+while x == true:  #character is not obtained
+    "keep playing until obtained"
+if character obtained: #while will stop so I stop playing
+    x = false
+so this is an example of how I will related this with how I motivate myself to play wuwa
 """
