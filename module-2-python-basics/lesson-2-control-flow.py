@@ -8,7 +8,10 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+These conditions checks if a statement is true or false.
+If conditions is the first statement that would be checked, if it is false
+it will check the next conditional statements which are elif, then if those are also false
+the else block will be run instead.
 
 ============================================
 KEY VOCABULARY
