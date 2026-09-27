@@ -103,7 +103,13 @@ A MISTAKE I MADE (or one I want to avoid)
 [what tripped you up while building this? e.g. a path that didn't
 exist, a file that got overwritten, something that didn't work the
 way you expected at first]
+Mistakes that I made when doing this activity was that at first I kept recreating my directories again and again.
+so I commented those after making my directories.
 
+Then I prioritized thinking on how to make the file sorter work first.
+
+So the problem I was thinking of while developing this file sorter was how do I make that folder summary as instructed?
+It was actually just a simple +=1 so that It increases the counter that I would lateron summarize at the end.
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
