@@ -2,9 +2,11 @@ import requests
 import random
 
 pokemon_list = ["pikachu","bulbasaur","squirtle","charizard","charmander"]
-x = random.randint(1,5)
-randpok = (x)
-x = (f'https://pokeapi.co/api/v2/pokemon/{randpok}')
+randomnumber = random.randint(0,4)
+randpok = (randomnumber)
+
+poklist = (pokemon_list[randomnumber]) # grabs a random pokemon in the list
+x = (f'https://pokeapi.co/api/v2/pokemon/{poklist}')
 
 response = requests.get(x)
 
@@ -13,5 +15,3 @@ print(result['name'])
 print(result['weight'])
 print(result['height'])
 
-
-# #bulbasaur charmander squirtle pikachu charizard
