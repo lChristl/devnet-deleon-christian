@@ -21,9 +21,18 @@ print("[1] Yes")
 print("[2] No")
 choice = input("Your choice: ")
 
-if choice == 1:
+if choice == "1":
     print("Who's that pokemon?")
     show_info()
+    print(f"="*20)
 
-elif choice == 2:
+    print(pokemon_list)
+    guess = int(input("Your guess, pick from [1] to [5]: "))
+    guessed_pokemon = pokemon_list[guess - 1]
+
+    if guessed_pokemon == poklist:
+        print(f"You guessed correctly! it was {poklist.capitalize()}")   
+    else:
+        print(f"You guessed wrong! it was actually {poklist.capitalize()}")
+elif choice == "2":
     exit
